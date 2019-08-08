@@ -31,8 +31,14 @@ Extracted artists genres to compare results.
 
 # Results:
 
-After clustering analysis and visualization it's possible to get a rough idea of audio track genres that were in 1996.
-But since 
+After clustering analysis and visualization I got a rough idea of audio track genres that were in 1996. I was able to identify only four clusters: Classical, Pop, Rock, Jazz.
+
+I checked my results by extracting artists genres of the audio tracks from 1996. The most common genres were defined by grouping of music type. Pop, Rock, Folk, Dance, Metal and Classical
+
+In the plot, that provided spotify there is a significant difference only for Classical music  (low: danceability, energy) and some Rock music (lower: acousticness)
+
+Popular music in the 1990s (wiki): The Red Hot Chili Peppers, Nirvana, No Doubt, Green Day, The Offspring, Marilyn Manson, Aerosmith, Bon Jovi,Backstreet Boys, *NSYNC, Christina Aguilera, Britney Spears, Jennifer Lopez and Destiny's Child, Michael Jackson
+
 
 
 
