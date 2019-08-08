@@ -29,6 +29,11 @@ Problem definition:
 Created segmentation on dataset of audio tracks for the year 1996.
 Extracted artists genres to compare results.
 
+# Results:
+
+After clustering analysis and visualization it's possible to get a rough idea of audio track genres that were in 1996.
+But since 
+
 
 
 
